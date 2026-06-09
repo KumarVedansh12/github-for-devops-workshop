@@ -1,9 +1,9 @@
-       ls -l
- 1010  ls -a
- 1011  clear
- 1012  git status
- 1013  ls
- 1014  git status
+ls -l
+ ls -a
+clear
+ git status
+ ls
+ git status
  1015  git add testing.py
  1016  git status
  1017  git commit -m "added testing file"
@@ -14,3 +14,7 @@
  1022  git restore testing.py
  1023  git status
  1024   git history
+
+ git remote -v
+ git remote set-url origin https://token@github.com/repoaddress
+ git push origin main
