@@ -40,3 +40,22 @@ clear
 this is new change 
 
 git pull origin main
+
+1127  git switch firstroot
+ 1128  git status
+ 1129  git add this_is_for_root 
+ 1130  git add this_is_for_root.txt
+ 1131  git commit -m "added new file"
+ 1132  git switch main
+ 1133  git switch firstroot
+ 1134   git log --onelie
+ 1135  git log --oneline
+ 1136  git status
+ 1137  git status
+ 1138  git switch main
+ 1139  git switch firstroot
+ 1140  git push origin firstroot
+ 1141    git switch main
+ 1142  git pull origin main
+
+ 
