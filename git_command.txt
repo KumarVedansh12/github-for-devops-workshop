@@ -18,3 +18,20 @@ clear
  git remote -v
  git remote set-url origin https://token@github.com/repoaddress
  git push origin main
+
+ cd
+  pwd
+ cd Documents
+ 1058  cd Documents/work
+ 1059  cd Documents/Work
+ 1060  cd Documents / Work
+ 1061  cd Documents
+ 1062  pwd
+ 1063  cd Work
+ 1064  pwd
+ 1065  mkdir git-demo-new
+ 1066  cd git-demo-new
+ 1067  ls
+ 1068  git clone https://github.com/KumarVedansh12/github-for-devop-workshop.git
+ 1069  ls
+ 1070  cd github-for-devop-workshop
