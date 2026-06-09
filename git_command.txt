@@ -38,3 +38,5 @@ clear
 
 
 this is new change 
+
+git pull origin main
